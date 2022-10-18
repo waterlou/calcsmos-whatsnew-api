@@ -1,4 +1,4 @@
 {"data": [
-{"body": "You can access recent used currency at the top of the list in Rate Convert", "timestamp": "2022-10-17", "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg"},
-{"body": "This is the first message", "timestamp": "2022-10-15"}
+{"title": "Improvement on Rate Convert", "body": "You can access recent used currency at the top of the list in Rate Convert", "timestamp": "2022-10-17", "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg"},
+{"title": "Title", "body": "This is the first message", "timestamp": "2022-10-15"}
 ]}
