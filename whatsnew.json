@@ -4,8 +4,8 @@
       "timestamp": "2022-10-19",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,
-      "title": "Improvement on Rate Convert",
-      "body": "You can access recent used currency at the top of the list in Rate Convert\n"
+      "title": "Improvement on Currency Convert",
+      "body": "You can access recent used currency at the top of the list in Currency Convert\n"
     },
     {
       "timestamp": "2022-10-01",

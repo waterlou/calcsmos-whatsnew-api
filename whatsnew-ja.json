@@ -4,14 +4,14 @@
       "timestamp": "2022-10-19",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,
-      "title": "レート変換の改善",
-      "body": "Rate Convert のリストの上部にある最近使用した通貨にアクセスできます。\n"
+      "title": "通貨換算の改善",
+      "body": "通貨換算のリストの上部にある最近使用した通貨にアクセスできます。\n"
     },
     {
       "timestamp": "2022-10-01",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,
-      "title": "新しいオーバーレイ: 呪文番号",
+      "title": "新しいオーバーレイ: 数字の読み書き",
       "body": "Calcsmos に現在の値をさまざまな言語で綴るように依頼できるようになりました。 それはあなたのために話すこともできます。\n"
     }
   ]
