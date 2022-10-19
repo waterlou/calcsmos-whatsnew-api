@@ -1,18 +1,18 @@
 {
   "data": [
     {
-      "timestamp": "2022-10-01",
-      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
-      "videoURL": null,
-      "title": "新疊加層：拼寫編號",
-      "body": "您現在可以要求 Calcsmos 用不同的語言拼寫當前值。 它也可以為你說話。\n"
-    },
-    {
       "timestamp": "2022-10-19",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,
       "title": "速率轉換的改進",
       "body": "您可以在匯率轉換列表頂部訪問最近使用的貨幣\n"
+    },
+    {
+      "timestamp": "2022-10-01",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
+      "videoURL": null,
+      "title": "新疊加層：拼寫編號",
+      "body": "您現在可以要求 Calcsmos 用不同的語言拼寫當前值。 它也可以為你說話。\n"
     }
   ]
 }
