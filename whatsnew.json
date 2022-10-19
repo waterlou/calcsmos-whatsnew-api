@@ -2,14 +2,14 @@
   "data": [
     {
       "timestamp": "2022-10-01",
-      "imageURL": "2022_10_18_rate_convert_update.jpg",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,
       "title": "New Overlay: Spell Number",
       "body": "You can now ask Calcsmos to spell the current value in different languages.  It can also speak for you.\n"
     },
     {
       "timestamp": "2022-10-19",
-      "imageURL": "2022_10_18_rate_convert_update.jpg",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,
       "title": "Improvement on Rate Convert",
       "body": "You can access recent used currency at the top of the list in Rate Convert\n"
