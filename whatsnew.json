@@ -9,7 +9,7 @@
     },
     {
       "timestamp": "2022-10-01",
-      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_01_spell_number.jpg",
       "videoURL": null,
       "title": "New Overlay: Spell Number",
       "body": "You can now ask Calcsmos to spell the current value in different languages.  It can also speak for you.\n"

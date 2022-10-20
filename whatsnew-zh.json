@@ -9,7 +9,7 @@
     },
     {
       "timestamp": "2022-10-01",
-      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_01_spell_number.jpg",
       "videoURL": null,
       "title": "新疊加層：讀寫數字",
       "body": "您現在可以要求 Calcsmos 用不同的語言讀寫當前數字。 它也可以為你讀出數字。\n"
