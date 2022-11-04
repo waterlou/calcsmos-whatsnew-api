@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "timestamp": "2022-11-02",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_11_02_margin.jpg",
+      "videoURL": null,
+      "title": "新疊加層：邊距",
+      "body": "“利潤”是一種新的疊加層，可幫助您計算利潤和加成。\n 您可以在疊加層中輸入任意兩個值，它將計算\n 另外兩個給你。\n"
+    },
+    {
       "timestamp": "2022-10-19",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,

@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "timestamp": "2022-11-02",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_11_02_margin.jpg",
+      "videoURL": null,
+      "title": "Neues Overlay: Marge",
+      "body": "\"Marge\" ist ein neues Overlay, das Ihnen hilft, Marge und Preiserhöhung zu berechnen\n leicht. Sie können zwei beliebige Werte in das Overlay eingeben und es wird berechnet\n noch zwei für dich.\n"
+    },
+    {
       "timestamp": "2022-10-19",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,

@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "timestamp": "2022-11-02",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_11_02_margin.jpg",
+      "videoURL": null,
+      "title": "新しいオーバーレイ: マージン",
+      "body": "「マージン」は、マージンと値上げの計算に役立つ新しいオーバーレイです\n 簡単に。 オーバーレイに任意の 2 つの値を入力すると、計算されます\n あなたのためにもう2つ。\n"
+    },
+    {
       "timestamp": "2022-10-19",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_10_18_rate_convert_update.jpg",
       "videoURL": null,
