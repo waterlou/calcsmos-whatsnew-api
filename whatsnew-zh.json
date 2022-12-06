@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "timestamp": "2022-12-07",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_12_07_sum.jpg",
+      "videoURL": null,
+      "title": "新疊加層：總和",
+      "body": "“總和” 是一個新的疊加層，它將當前空間中的所有值相加。 還有\n  一種 “預算” 模式，您可以設置預算來計算 “剩餘”\n"
+    },
+    {
       "timestamp": "2022-11-02",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_11_02_margin.jpg",
       "videoURL": null,

@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "timestamp": "2022-12-07",
+      "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_12_07_sum.jpg",
+      "videoURL": null,
+      "title": "Neues Overlay: Summe",
+      "body": "\"Summe\" ist ein neues Overlay, das alle Werte im aktuellen Bereich addiert. Es gibt auch\n ein \"Budget\"-Modus, in dem Sie das Budget festlegen und die \"übrig\" zählen können\n"
+    },
+    {
       "timestamp": "2022-11-02",
       "imageURL": "https://raw.githubusercontent.com/waterlou/calcsmos-whatsnew-api/main/assets/2022_11_02_margin.jpg",
       "videoURL": null,
